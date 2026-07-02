@@ -37,7 +37,6 @@ const STORAGE_KEY = "printlab-history";
 
 const navItems = [
   { href: "#predict", label: "Predict" },
-  { href: "#guide", label: "Guide" },
   { href: "#history", label: "History" },
 ];
 
@@ -366,9 +365,9 @@ function App() {
                 </a>
                 <a
                   className="inline-flex items-center justify-center gap-2 rounded-xl border-2 border-white/20 bg-white/5 px-6 py-4 font-semibold text-white backdrop-blur-sm transition hover:bg-white/10"
-                  href="#guide"
+                  href="#history"
                 >
-                  How it Works <Sparkles size={20} />
+                  View History <Clock3 size={20} />
                 </a>
               </div>
             </div>
