@@ -14,21 +14,4 @@ The project features a sleek, responsive interface built with React, Tailwind CS
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Lite" width="24" height="24"/> | **TensorFlow Lite** | Lightweight ML framework for on-device inference |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="24" height="24"/> | **Vite** | Next-generation frontend tooling and bundler |
 
-## Setup & Development
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/httpsdave/printlab.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
 *Disclaimer: Results provided by the predictive model are for guidance and demonstration purposes only. They are not a substitute for clinical medical testing.*
